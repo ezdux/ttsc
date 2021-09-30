@@ -1,0 +1,12 @@
+[package]
+name = "ttsc"
+version = "0.0.1"
+edition = "2021"
+description = "🚀 Tiny TypeScript Compiler"
+authors = ["ezdux"]
+license = "MIT"
+homepage = "https://github.com/ezdux/ttsc"
+repository = "https://github.com/ezdux/ttsc"
+
+# [dependencies]
+# termion = "1.5.6"

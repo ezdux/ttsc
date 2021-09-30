@@ -1,0 +1,2 @@
+# ttsc
+🚀 Tiny TypeScript Compiler
